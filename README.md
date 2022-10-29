@@ -1,0 +1,2 @@
+# skripsi
+for skripsi only
